@@ -1,0 +1,309 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<rdf:RDF
+      xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+      xmlns:po="http://purl.org/ontology/po/"
+      xmlns:foaf="http://xmlns.com/foaf/0.1/"
+      xmlns:cv="http://cqtisoft.com.ec/tv/curriculum.owl"		
+      xml:lang="es">
+
+
+
+	<rdf:Description rdf:ID="n2"> 
+   		<rdf:type rdf:resource="http://purl.org/ontology/po/Programme"/>
+   		<po:Brand>12 anios de esclavitud</po:Brand>
+   		<po:actor>Chiwetel Ejiofor;  Lupita Nyongo; Michael Fasbender</po:actor>
+   		<po:Genre>Drama</po:Genre>
+		<po:Category>Peliculas</po:Category>
+   		<po:schedule_date>2014-09-01</po:schedule_date>
+   		<po:Broadcast>
+			<rdf:Description rdf:ID="n3"> 
+				<po:Place>Ecuador</po:Place>
+        			<po:time>08:30:00</po:time>
+   			</rdf:Description> 
+   		</po:Broadcast>
+   		<po:Broadcast>
+			<rdf:Description rdf:ID="n4"> 
+				<po:Place>Colombia</po:Place>
+        			<po:time>09:30:00</po:time>
+   			</rdf:Description> 
+   		</po:Broadcast>
+	</rdf:Description>
+	<rdf:Description rdf:ID="n5"> 
+   		<rdf:type rdf:resource="http://purl.org/ontology/po/Programme"/>
+   		<po:Brand>El nacimiento de un imperio</po:Brand>
+   		<po:actor>Rodrigo Santoro; Eva Green</po:actor>
+   		<po:Genre>Accion</po:Genre>
+		<po:Category>Peliculas</po:Category>
+   		<po:schedule_date>2014-09-02</po:schedule_date>
+   		<po:Broadcast>
+			<rdf:Description rdf:ID="n6"> 
+				<po:Place>Ecuador</po:Place>
+        			<po:time>09:45:00</po:time>
+   			</rdf:Description> 
+   		</po:Broadcast>
+   		<po:Broadcast>
+			<rdf:Description rdf:ID="n7"> 
+				<po:Place>Colombia</po:Place>
+        			<po:time>10:45:00</po:time>
+   			</rdf:Description> 
+   		</po:Broadcast>
+	</rdf:Description> 
+
+	<rdf:Description rdf:ID="n8"> 
+   		<rdf:type rdf:resource="http://purl.org/ontology/po/Programme"/>
+   		<po:Brand>Aires de esperanza</po:Brand>
+   		<po:actor>Gattlin Griffith; Kate Winslet</po:actor>
+   		<po:Genre>Romance - Drama</po:Genre>
+		<po:Category>Peliculas</po:Category>
+   		<po:schedule_date>2014-09-03</po:schedule_date>
+   		<po:Broadcast>
+			<rdf:Description rdf:ID="n9"> 
+				<po:Place>Ecuador</po:Place>
+        			<po:time>17:15:00</po:time>
+   			</rdf:Description> 
+   		</po:Broadcast>
+   		<po:Broadcast>
+			<rdf:Description rdf:ID="n10"> 
+				<po:Place>Colombia</po:Place>
+        			<po:time>18:15:00</po:time>
+   			</rdf:Description> 
+   		</po:Broadcast>
+	</rdf:Description> 
+
+
+	<rdf:Description rdf:ID="n11">
+   		<rdf:type rdf:resource="http://purl.org/ontology/po/Programme"/>
+   		<po:Brand>Batman Assault on Arkham</po:Brand>
+   		<po:actor>Chritian Bale</po:actor>
+   		<po:Genre>Accion - Drama</po:Genre>
+		<po:Category>Peliculas</po:Category>
+   		<po:schedule_date>2014-09-03</po:schedule_date>
+   		<po:Broadcast>
+			<rdf:Description rdf:ID="n12"> 
+				<po:Place>Ecuador</po:Place>
+        			<po:time>11:00:00</po:time>
+   			</rdf:Description> 
+   		</po:Broadcast>
+   		<po:Broadcast>
+			<rdf:Description rdf:ID="n13"> 
+				<po:Place>Colombia</po:Place>
+       	 			<po:time>12:00:00</po:time>
+   			</rdf:Description> 
+   		</po:Broadcast>
+	</rdf:Description> 
+
+	<rdf:Description rdf:ID="n15">
+   		<rdf:type rdf:resource="http://purl.org/ontology/po/Programme"/>
+   		<po:Brand>Acomplejado</po:Brand>
+                <po:actor>XXX</po:actor>
+   		<po:Genre>Entretenimiento</po:Genre>
+		<po:Category>Entretenimiento</po:Category>
+   		<po:schedule_date>lunes a viernes</po:schedule_date>
+   		<po:Broadcast>
+			<rdf:Description rdf:ID="n16"> 
+				<po:Place>Ecuador</po:Place>
+        			<po:time>08:30:00</po:time>
+   			</rdf:Description> 
+   		</po:Broadcast>
+   		<po:Broadcast>
+			<rdf:Description rdf:ID="n17"> 
+				<po:Place>Colombia</po:Place>
+        			<po:time>09:30:00</po:time>
+   			</rdf:Description> 
+   		</po:Broadcast>
+	</rdf:Description> 
+
+
+	<rdf:Description rdf:ID="n18">
+   		<rdf:type rdf:resource="http://purl.org/ontology/po/Programme"/>
+   		<po:Brand>Acumuladores</po:Brand>
+   		<po:Genre>Entretenimiento</po:Genre>
+		<po:Category>Entretenimiento</po:Category>
+<po:actor>XXX</po:actor>
+   		
+   		<po:schedule_date>lunes a jueves</po:schedule_date>
+   		<po:Broadcast>
+			<rdf:Description rdf:ID="n19"> 
+				<po:Place>Ecuador</po:Place>
+        			<po:time>10:30:00</po:time>
+   			</rdf:Description> 
+   		</po:Broadcast>
+   		<po:Broadcast>
+			<rdf:Description rdf:ID="n20"> 
+				<po:Place>Colombia</po:Place>
+        			<po:time>11:30:00</po:time>
+   			</rdf:Description> 
+   		</po:Broadcast>
+	</rdf:Description> 
+
+
+	<rdf:Description rdf:ID="n21">
+   		<rdf:type rdf:resource="http://purl.org/ontology/po/Programme"/>
+   		<po:Brand>Cuponmania</po:Brand>
+   		<po:Genre>Entretenimiento</po:Genre>
+		<po:Category>Entretenimiento</po:Category>
+<po:actor>XXX</po:actor>
+   		
+   		<po:schedule_date>lunes y Miércoles</po:schedule_date>
+   		<po:Broadcast>
+			<rdf:Description rdf:ID="n22"> 
+				<po:Place>Ecuador</po:Place>
+        			<po:time>16:30:00</po:time>
+   			</rdf:Description> 
+   		</po:Broadcast>
+   		<po:Broadcast>
+			<rdf:Description rdf:ID="n23"> 
+				<po:Place>Colombia</po:Place>
+        			<po:time>17:30:00</po:time>
+   			</rdf:Description> 
+   		</po:Broadcast>
+	</rdf:Description> 
+
+	<rdf:Description rdf:ID="n25">
+   		<rdf:type rdf:resource="http://purl.org/ontology/po/Programme"/>
+   		<po:Brand>Acomplejado</po:Brand>
+   		<po:Genre>Entretenimiento</po:Genre>
+<po:actor>XXX</po:actor>
+   		
+		<po:Category>Farandula</po:Category>
+   		<po:schedule_date>lunes a viernes</po:schedule_date>
+   		<po:Broadcast>
+			<rdf:Description rdf:ID="n26"> 
+				<po:Place>Ecuador</po:Place>
+        			<po:time>08:30:00</po:time>
+   			</rdf:Description> 
+   		</po:Broadcast>
+   		<po:Broadcast>
+			<rdf:Description rdf:ID="n27"> 
+				<po:Place>Colombia</po:Place>
+        			<po:time>09:30:00</po:time>
+   			</rdf:Description> 
+   		</po:Broadcast>
+	</rdf:Description> 
+
+	<rdf:Description rdf:ID="n28">
+   		<rdf:type rdf:resource="http://purl.org/ontology/po/Programme"/>
+   		<po:Brand>Acumuladores</po:Brand>
+   		<po:Genre>Entretenimiento</po:Genre>
+<po:actor>XXX</po:actor>
+   		
+		<po:Category>Farandula</po:Category>
+   		<po:schedule_date>lunes a jueves</po:schedule_date>
+   		<po:Broadcast>
+			<rdf:Description rdf:ID="n29"> 
+				<po:Place>Ecuador</po:Place>
+        			<po:time>10:30:00</po:time>
+   			</rdf:Description> 
+   		</po:Broadcast>
+   		<po:Broadcast>
+			<rdf:Description rdf:ID="n30"> 
+				<po:Place>Colombia</po:Place>
+        			<po:time>11:30:00</po:time>
+   			</rdf:Description> 
+   		</po:Broadcast>
+	</rdf:Description> 
+
+	<rdf:Description rdf:ID="n33">
+   		<rdf:type rdf:resource="http://purl.org/ontology/po/Programme"/>
+      		<po:Brand>Escandalo Americano</po:Brand>
+		<po:actor>Fritz Freleng; Mariví Bibao</po:actor>
+   		<po:Genre>Drama</po:Genre>
+		<po:Category>Destacados</po:Category>
+   		<po:schedule_date>hoy</po:schedule_date>
+   		<po:Broadcast>
+			<rdf:Description rdf:ID="n34"> 
+				<po:Place>Ecuador</po:Place>
+        			<po:time>14:30:00</po:time>
+				<po:time>17:00:00</po:time>
+				<po:time>19:30:00</po:time>
+				<po:time>22:00:00</po:time>
+   			</rdf:Description> 
+   		</po:Broadcast>
+   		<po:Broadcast>
+			<rdf:Description rdf:ID="n35"> 
+				<po:Place>Colombia</po:Place>
+        			<po:time>15:30:00</po:time>
+				<po:time>18:00:00</po:time>
+				<po:time>20:30:00</po:time>
+				<po:time>23:00:00</po:time>
+   			</rdf:Description> 
+   		</po:Broadcast>
+	</rdf:Description> 
+
+	<rdf:Description rdf:ID="n36">
+   		<rdf:type rdf:resource="http://purl.org/ontology/po/Programme"/>
+      		<po:Brand>Un regalo inesperado</po:Brand>
+		<po:actor>Emily Watson; Geoffrey Rush</po:actor>
+   		<po:Genre>Comedia</po:Genre>
+		<po:Category>Destacados</po:Category>
+   		<po:schedule_date>hoy</po:schedule_date>
+   		<po:Broadcast>
+			<rdf:Description rdf:ID="n37"> 
+				<po:Place>Ecuador</po:Place>
+        			<po:time>15:30:00</po:time>
+				<po:time>18:00:00</po:time>
+				<po:time>20:30:00</po:time>
+				<po:time>23:00:00</po:time>
+   			</rdf:Description> 
+   		</po:Broadcast>
+   		<po:Broadcast>
+			<rdf:Description rdf:ID="n38"> 
+				<po:Place>Colombia</po:Place>
+        			<po:time>16:30:00</po:time>
+				<po:time>19:00:00</po:time>
+				<po:time>21:30:00</po:time>
+				<po:time>00:00:00</po:time>
+   			</rdf:Description> 
+   		</po:Broadcast>
+	</rdf:Description> 
+
+	<rdf:Description rdf:ID="n39">
+   		<rdf:type rdf:resource="http://purl.org/ontology/po/Programme"/>
+      		<po:Brand>Rio 2</po:Brand>
+		<po:actor>Carlinhos Brown; Jake Szymanski</po:actor>
+   		<po:Genre>Infantil</po:Genre>
+		<po:Category>Destacados</po:Category>
+   		<po:schedule_date>hoy</po:schedule_date>
+   		<po:Broadcast>
+			<rdf:Description rdf:ID="n40"> 
+				<po:Place>Ecuador</po:Place>
+        			<po:time>16:30:00</po:time>
+				<po:time>19:00:00</po:time>
+				<po:time>21:30:00</po:time>
+				<po:time>00:00:00</po:time>
+   			</rdf:Description> 
+   		</po:Broadcast>
+   		<po:Broadcast>
+			<rdf:Description rdf:ID="n41"> 
+				<po:Place>Colombia</po:Place>
+        			<po:time>17:30:00</po:time>
+				<po:time>20:00:00</po:time>
+				<po:time>22:30:00</po:time>
+				<po:time>01:00:00</po:time>
+   			</rdf:Description> 
+   		</po:Broadcast>
+	</rdf:Description>
+
+	<foaf:organization rdf:ID="MachalaTV">
+      		<foaf:name>Machala TV On Line</foaf:name>
+   		<foaf:phone>59372984871</foaf:phone>
+   		<foaf:phone>593983419047</foaf:phone>
+   		<foaf:mbox>info@tvonline.com.ec</foaf:mbox>
+		<cv:address>10 de Agosto y 13ava Norte</cv:address>
+	</foaf:organization>
+
+
+<rdf:Description rdf:ID="n31"> 
+   <rdf:type rdf:resource="http://purl.org/ontology/po/Programme"/>
+   <po:Brand>Viaje al Centro de la Tierra</po:Brand>
+   <po:synopsis>Es una novela de Julio Verne, publicada el 25 de noviembre de 1864, que trata de la expedición de un profesor de mineralogía</po:synopsis>
+</rdf:Description> 
+<rdf:Description rdf:ID="n32"> 
+   <rdf:type rdf:resource="http://purl.org/ontology/po/Programme"/>
+   <po:Brand>Superman</po:Brand>
+   <po:synopsis>cuyo nombre kryptoniano es Kal-El y su nombre terrestre es Clark Kent</po:synopsis>
+</rdf:Description>
+
+</rdf:RDF>
+
+
